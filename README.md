@@ -91,3 +91,7 @@ rootFolder/
 | `WinError 10054` in terminal | Antivirus/firewall (e.g. McAfee) resetting outbound HTTPS connections. The app auto-retries a few times to work around this. |
 | Garbled `<PAD>` text in replies | Was caused by an unstable model — fixed by switching to `command-a-03-2025`. |
 | No Arabic voice / robotic English accent | Install an Arabic voice pack on your OS (see Notes above). |
+
+
+## Notes
+This project was made purely for educational purposes, and to practice.
